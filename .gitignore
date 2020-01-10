@@ -1,0 +1,4 @@
+SpringBoot/build/*
+SpringBoot/out/*
+SpringBoot/.gradle
+SpringBoot/.idea
